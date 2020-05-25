@@ -1,4 +1,4 @@
-barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
+This is a project that qill help increase Qualified Teachers according to global standards in developing countries
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/09c4062b677948a0975f724aa63979cf)](https://app.codacy.com/gh/BuildForSDG/Q-Teachers?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Q-Teachers&utm_campaign=Badge_Grade_Settings)
 [![Codacy 
@@ -6,7 +6,7 @@ barebones setup for JavaScript / Node projects replace this with a one-liner phr
 
 ## About
 
-What is this project about. Ok to enrich here or the section above it with an image. 
+This project is about a making a site where all teachers should get registered and have an account where they can take tests and have their scores displayed for the individual classes they intend to teach based on global standards so any institution that plans to hire a teacher can eaaily check to see if they are qualified to teach such class thereby making sure only quality and qualified teachers are hired.
 
 Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
 
@@ -19,7 +19,7 @@ This is a simple JavaScript starter repo template for setting up your project. T
 ## Why
 
 Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
-
+This solves the issue if unqualified teachers being hired and no global standard for checking if they are truly qualified it addresses Goal 4(Quality Education) Statement 2 which says to help design a solution to help increase the supply of qualified teachers. This is really important because if we can get quality education to all the developing countries it will help in progressing their developments to developed countries because they will have enlightened young minds helping them to grow.
 ## Usage
  How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
 
