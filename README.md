@@ -1,4 +1,4 @@
-This is a project that qill help increase Qualified Teachers according to global standards in developing countries
+This is a project that will help increase Qualified Teachers according to global standards in developing countries
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/09c4062b677948a0975f724aa63979cf)](https://app.codacy.com/gh/BuildForSDG/Q-Teachers?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Q-Teachers&utm_campaign=Badge_Grade_Settings)
 
